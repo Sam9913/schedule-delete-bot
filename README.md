@@ -14,7 +14,7 @@ Discord StoryBot is a versatile Discord bot designed to bring the ephemeral char
 
 ## Getting Started
 
-Currently, due to budget constraints, the developer is unable to deploy the bot. However, the project is open for download, inviting you to freely utilize and explore its features for your own Discord server enjoyment.
+*Currently, due to budget constraints, the developer is unable to deploy the bot. However, the project is open for download, inviting you to freely utilize and explore its features for your own Discord server enjoyment.*
 
 To integrate Discord StoryBot into your server, follow these steps:
 
